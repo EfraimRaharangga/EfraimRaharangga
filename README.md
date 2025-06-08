@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 #### Connect With Me
 
-![https://www.instagram.com/_efraimr](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/efraim-raharangga-6ba6501b4/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://www.youtube.com/@8bitbuddies](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_efraimr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efraim-raharangga-6ba6501b4/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@efraimraharangga)
 
 <!-- #### GitHub Stat
 ![Efraim's GitHub stats](https://github-readme-stats.vercel.app/api?username=efraimraharangga&show_icons=true&theme=radical) -->
