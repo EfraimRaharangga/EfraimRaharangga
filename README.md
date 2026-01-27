@@ -13,13 +13,16 @@ Currently focusing on **front-end fundamentals** and improving my understanding 
 ## 🛠 Skills (Currently Learning & Practicing)
 
 ### Core Web Technologies
-<img src="https://img.shields.io/badge/HTML5-basic-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-basic-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+<img src="https://img.shields.io/badge/HTML5-intermediate-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-intermediate-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-basic-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Bootstrap%205-learning-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
 ---
 
 ## 📘 What I'm Working On
+
 - Building small and responsive web layouts
 - Practicing CSS (Flexbox, Grid, layout structure)
 - Understanding basic JavaScript logic and DOM
@@ -28,6 +31,7 @@ Currently focusing on **front-end fundamentals** and improving my understanding 
 ---
 
 ## 🎯 Learning Goals
+
 - Finish freeCodeCamp Responsive Web Design certification
 - Build simple and clean websites
 - Improve consistency and problem-solving skills
@@ -36,6 +40,7 @@ Currently focusing on **front-end fundamentals** and improving my understanding 
 ---
 
 ## ✨ Fun Facts
+
 - I prefer learning by doing rather than just reading
 - I enjoy clean layouts and simple UI
 - Still learning, still curious 🚀
